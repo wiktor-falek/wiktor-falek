@@ -2,13 +2,13 @@
 
 ## About me 
 
-My name is Wiktor 😊
+* My name is Wiktor 😊
 
-I am currently located in Sweden, Jönköping county 💯
+* I am currently located in Sweden, Jönköping county 💯
 
-I am a self taught programmer on the journey to become a web developer 🚀
+* I am a self taught programmer on the journey to become a web developer 🚀
 
-I speak 🇬🇧 English 🇵🇱 Polish and I am currently learning 🇸🇪 Swedish
+* I speak 🇬🇧 English 🇵🇱 Polish and I am currently learning 🇸🇪 Swedish
 
 
 
