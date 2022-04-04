@@ -10,6 +10,9 @@
 
 * I speak 🇬🇧 English 🇵🇱 Polish and I am currently learning 🇸🇪 Swedish
 
+## Languages and Tools
+
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
 
 
 <!--
