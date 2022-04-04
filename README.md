@@ -12,7 +12,7 @@
 
 ## Languages and Tools
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32"/>
 
 <!--
 **wiktor-falek/wiktor-falek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
