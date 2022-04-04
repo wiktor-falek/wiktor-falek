@@ -1,4 +1,16 @@
-### Hi there 👋
+### Welcome to my profile 👋
+
+## About me 
+
+### My name is Wiktor 😊
+
+### I am currently located in Sweden, Jönköping county 💯
+
+### I am a self taught programmer on the journey to become a web developer 🚀
+
+### I speak 🇬🇧 English 🇵🇱 Polish and I am currently learning 🇸🇪 Swedish
+
+
 
 <!--
 **wiktor-falek/wiktor-falek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
