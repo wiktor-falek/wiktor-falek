@@ -10,6 +10,8 @@
 * I speak 🇬🇧 English 🇵🇱 Polish and I am currently learning 🇸🇪 Swedish
 
 ## Languages and Tools
+[![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=yellow&style=for-the-badge)](https://www.python.org/)
+
 ![Python](https://img.shields.io/endpoint?color=yellow&label=python&logo=python&logoColor=blue&style=for-the-badge)
 <div>
          
