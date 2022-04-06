@@ -10,7 +10,7 @@
 * I speak 🇬🇧 English 🇵🇱 Polish and I am currently learning 🇸🇪 Swedish
 
 ## Languages and Tools
-[![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=yellow&style=for-the-badge)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=blue&style=for-the-badge)]
 <div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="32" height="32" class="hovertext"/>
