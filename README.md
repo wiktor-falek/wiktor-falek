@@ -22,7 +22,7 @@
 
 ## Currently learning
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="64" height="64"/>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="64" height="64"/></code>
 </div>
 
 <hr>
