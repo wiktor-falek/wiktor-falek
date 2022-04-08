@@ -1,7 +1,9 @@
+<div>
 <h1 align="center">Welcome to my profile 👋</h1>
 
 <h2 align="center" style="">About Me<h2>
-
+</div>
+          
 * My name is Wiktor 😊
 
 * I am currently located in Sweden, Jönköping county 💯
