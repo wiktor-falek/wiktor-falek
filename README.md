@@ -9,7 +9,7 @@
 
 * I am a self taught programmer on the journey to become a web developer 🚀
 
-* I speak 🇬🇧 English 🇵🇱 Polish and I am currently learning 🇸🇪 Swedish
+* I speak fluent 🇬🇧 English 🇵🇱 Polish and I am currently learning 🇸🇪 Swedish
 
 ## Languages and Tools
 <div>
