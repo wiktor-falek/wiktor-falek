@@ -1,6 +1,7 @@
-<h1 align="center">Welcome to my profile 👋</h1>
+<h3 align="center">Welcome to my profile 👋</h3>
 
-<h1 align="center">About Me<h1>
+<h4 align="center">About Me<h3>
+          
 * My name is Wiktor 😊
 
 * I am currently located in Sweden, Jönköping county 💯
@@ -9,7 +10,7 @@
 
 * I speak 🇬🇧 English 🇵🇱 Polish and I am currently learning 🇸🇪 Swedish
 
-<h1 align="center">Languages and Tools<h1>
+<h4 align="center">Languages and Tools<h1>
 <div>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="64" height="64" class="hovertext"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="64" height="64"/></code>
@@ -18,7 +19,8 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="64" height="64"/></code>
 </div>
 
-<h1 align="center">Currently Learning<h1>
+<h4 align="center">Currently Learning<h1>
+          
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="64" height="64"/>
 </div>
