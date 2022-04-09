@@ -27,6 +27,7 @@
 
 <div>
     <h3 align="center">Languages and Tools</h3>
+    <div>
     [![My Skills](https://skillicons.dev/icons?i=python,js,ts,mongodb,linux)](https://skillicons.dev)
 
     <!--
@@ -36,6 +37,7 @@
     [<img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>](https://www.mongodb.com/)
     [<img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>](https://www.linux.org/)
     -->
+    </div>
 </div>
 <div>  
     <h2>Currently learning</h2> 
