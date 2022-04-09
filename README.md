@@ -26,6 +26,11 @@
           
 <hr>
 
+<div align="center">
+    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+</div>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
           
