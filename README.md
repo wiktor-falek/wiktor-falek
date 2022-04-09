@@ -21,12 +21,9 @@
 <div>
 <h2 align="center">Languages and Tools</h2>
 
-
-[<img width="64" height="64" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>](https://www.python.org/)
-[<img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>](https://developer.mozilla.org/en-US/docs/Web/javascript)
-[<img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>](https://www.typescriptlang.org/)
-[<img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>](https://www.mongodb.com/)
-[<img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>](https://www.linux.org/)
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,mongodb,linux)](https://skillicons.dev)
+    
+   
 </div>
 
 ## Currently learning
