@@ -36,21 +36,18 @@
 <img src="https://skillicons.dev/icons?i=python,js,ts,mongodb,linux)](https://skillicons.dev">
 
 <h5>Currently Learning</h5>
+    
 <img src="https://skillicons.dev/icons?i=vuejs)](https://skillicons.dev">
 
-    
 </span>
     
 <span align="right">
+    
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+    
 </span>
 
-
-    
 </div>
-
-
-
 
 <br>
 pls hire me i can center a div and shit
