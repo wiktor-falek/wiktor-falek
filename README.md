@@ -3,8 +3,7 @@
 </div>
 
 <div>
-
-## About Me
+<h2>About Me</h2>
 
 * My name is Wiktor 😊
 
@@ -15,7 +14,6 @@
 * I speak fluent 🇬🇧 English 🇵🇱 Polish and I am currently learning 🇸🇪 Swedish
 
 * Fun fact: <i>insert fun fact here</i>
-    
 </div>
 
 ## Languages and Tools
