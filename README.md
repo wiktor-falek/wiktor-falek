@@ -25,8 +25,14 @@
     </ul>
 </div>
 
-
 <div float="left">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    
+</div>
+
+
+<div float="right">
 <h5>Languages and Tools</h5>
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,ts,mongodb,linux)](https://skillicons.dev)
@@ -37,11 +43,7 @@
     
 </div>
 
-<div float="left">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-    
-</div>
 
 <br>
 pls hire me i can center a div and shit
