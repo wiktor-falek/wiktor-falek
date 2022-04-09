@@ -26,16 +26,16 @@
 
 </div>
 
-<div id="stuff">
-    <h5>Languages and Tools</h5>
 
-    [![My Skills](https://skillicons.dev/icons?i=python,js,ts,mongodb,linux)](https://skillicons.dev)
+<h5>Languages and Tools</h5>
 
-    <h5>Currently Learning</h5>
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,mongodb,linux)](https://skillicons.dev)
 
-    [![My Skills](https://skillicons.dev/icons?i=vuejs&width=64)](https://skillicons.dev)
-    
-</div>
+<h5>Currently Learning</h5>
+
+[![My Skills](https://skillicons.dev/icons?i=vuejs&width=64)](https://skillicons.dev)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
