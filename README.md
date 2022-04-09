@@ -22,9 +22,7 @@
 
 ## Currently learning
 
-<div>   
 [<img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />](https://www.google.com/)
-</div>
 
           
 <hr>
