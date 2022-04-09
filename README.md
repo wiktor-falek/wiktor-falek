@@ -23,7 +23,7 @@
             Fun fact: <i>insert fun fact here</i>
         </li>
     </ul>
-
+</div>
 </div>
 
 <div id="stuff">
