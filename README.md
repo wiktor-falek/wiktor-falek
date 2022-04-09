@@ -34,6 +34,7 @@
 <h5>Currently Learning</h5>
 
 [![My Skills](https://skillicons.dev/icons?i=vuejs&width=64)](https://skillicons.dev)
+    
 </div>
 
 <div> float="left">
