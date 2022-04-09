@@ -23,7 +23,7 @@
 
 ## Currently learning
 
-[<img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />](https://www.google.com/)
+[<img alt="hello?" width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />](https://www.google.com/)
 
           
 <hr>
