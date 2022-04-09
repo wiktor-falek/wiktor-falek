@@ -25,6 +25,9 @@
     </ul>
 </div>
 
+
+<div id="shit>
+
 <div align="left">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -41,6 +44,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vuejs&width=64)](https://skillicons.dev)
     
+</div>
+
 </div>
 
 
