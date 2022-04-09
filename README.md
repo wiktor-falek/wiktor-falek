@@ -41,9 +41,9 @@
 [<img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />](https://vuejs.org/)
 -->
 
-<hr>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<hr>
 pls hire me i can center a div and shit
