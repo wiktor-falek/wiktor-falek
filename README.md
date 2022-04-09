@@ -12,7 +12,7 @@
 
 * I speak fluent 🇬🇧 English 🇵🇱 Polish and I am currently learning 🇸🇪 Swedish
 
-* Fun fact \*insert very fun fact here\*
+* Fun fact <i>insert very fun fact here</i>
 
 ## Languages and Tools
 
