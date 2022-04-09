@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="logo.svg" width="450" height="100" alt="css-in-readme">
+    <h1>Welcome to my profile👋</h1>
 </div>
 
 ## About Me
@@ -22,14 +22,11 @@
 </div>
 
 ## Currently learning
-
+<div>
 [<img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />](https://www.google.com/)
-
+</div>
           
 <hr>
-
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
