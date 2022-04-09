@@ -2,7 +2,9 @@
     <h1>Welcome to my profile👋</h1>
 </div>
 
-##About Me
+<div>
+
+## About Me
 
 * My name is Wiktor 😊
 
@@ -13,6 +15,8 @@
 * I speak fluent 🇬🇧 English 🇵🇱 Polish and I am currently learning 🇸🇪 Swedish
 
 * Fun fact: <i>insert fun fact here</i>
+    
+</div>
 
 ## Languages and Tools
 
