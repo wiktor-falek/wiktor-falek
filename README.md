@@ -2,7 +2,7 @@
     <h1>Welcome to my profile👋</h1>
 </div>
 
-<hr>
+<br>
 
 <div>
 <h2 align="center">About Me</h2>
