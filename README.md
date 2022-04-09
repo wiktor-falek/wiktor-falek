@@ -27,7 +27,7 @@
                
 <h5>Languages and Tools</h5>
 
-[![My Skills](https://skillicons.dev/icons?i=python,node,ts,mongodb,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,nodejs,ts,mongodb,linux)](https://skillicons.dev)
 
 <h5>Currently Learning</h5>
 
