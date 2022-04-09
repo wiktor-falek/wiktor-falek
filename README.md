@@ -23,7 +23,7 @@
 ## Currently learning
 
 <div>
-[<img margin-bottom="1px solid gray" alt="bruh" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="64" height="64" />](https://www.google.com/)
+[<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="64" height="64" />](https://www.google.com/)
 </div>
 
           
