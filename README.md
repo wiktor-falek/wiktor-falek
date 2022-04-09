@@ -2,7 +2,7 @@
     <h1>Welcome to my profile👋</h1>
 </div>
 
-## About Me
+<h2> About Me <h2>
           
 * My name is Wiktor 😊
 
