@@ -26,9 +26,11 @@
 </div>
 
 
-<div align="center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+            
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
+
+
          
 <h5>Languages and Tools</h5>
 
@@ -38,7 +40,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vuejs)](https://skillicons.dev)
     
-</div>
 
 <br>
 pls hire me i can center a div and shit
