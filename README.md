@@ -32,16 +32,18 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 
-<div align="right">
+<div align="left">
          
 <h5>Languages and Tools</h5>
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,mongodb,linux)](https://skillicons.dev">
 
 <h5>Currently Learning</h5>
-
-<img src="https://skillicons.dev/icons?i=vuejs)](https://skillicons.dev">
     
+</div>
+    
+<div>
+<img src="https://skillicons.dev/icons?i=vuejs)](https://skillicons.dev">
 </div>
 
 
