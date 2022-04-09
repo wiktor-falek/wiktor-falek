@@ -25,14 +25,14 @@
     </ul>
 </div>
 
-<div float="left">
+<div align="left">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     
 </div>
 
 
-<div float="left">
+<div align="right">
 <h5>Languages and Tools</h5>
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,ts,mongodb,linux)](https://skillicons.dev)
