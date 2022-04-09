@@ -32,7 +32,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 
-<p align="right">
+<div align="right">
          
 <h5>Languages and Tools</h5>
 
@@ -42,7 +42,7 @@
 
 <img src="https://skillicons.dev/icons?i=vuejs)](https://skillicons.dev">
     
-</p>
+</div>
 
 
     
