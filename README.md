@@ -1,4 +1,6 @@
-<h1 align="center">Welcome to my profile 👋</h1>
+<div align="center">
+    <img src="logo.svg" width="400" height="400" alt="css-in-readme">
+</div>
 
 ## About Me
           
@@ -26,9 +28,7 @@
           
 <hr>
 
-<div align="center">
-    <img src="example.svg" width="400" height="400" alt="css-in-readme">
-</div>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
