@@ -29,10 +29,10 @@
 
 <div id="pieceofshit">
 
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 
-
-<span align="right">
+<p align="right">
          
 <h5>Languages and Tools</h5>
 
@@ -41,6 +41,10 @@
 <h5>Currently Learning</h5>
 
 <img src="https://skillicons.dev/icons?i=vuejs)](https://skillicons.dev">
+    
+</p>
+
+
     
 </div>
 
