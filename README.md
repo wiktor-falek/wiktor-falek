@@ -1,10 +1,10 @@
-<div align="center">
+<div id="header" align="center">
     <h1>Welcome to my profile👋</h1>
 </div>
 
 <br>
 
-<div>
+<div id="content">
 <h2 align="center">About Me</h2>
 
 * My name is Wiktor 😊
