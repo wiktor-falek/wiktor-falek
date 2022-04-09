@@ -1,3 +1,9 @@
+<style>
+img {
+  border-bottom: 2px solid gray;
+}
+</style
+
 
 <h1 align="center">Welcome to my profile 👋</h1>
 
