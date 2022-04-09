@@ -13,7 +13,7 @@
 
 ## Languages and Tools
 <div>
-[!<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="64" height="64" class="hovertext"/></code>]("google.com")
+[!]<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="64" height="64" class="hovertext"/></code>]("google.com")
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="64" height="64"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="64" height="64"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  width="64" height="64"/></code>
@@ -22,7 +22,8 @@
 
 ## Currently learning
 <div>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="64" height="64"/></code>
+[![vuejs](<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="64" height="64"/></code>)](google.com)
+
 </div>
 
 <hr>
