@@ -3,7 +3,8 @@
 </div>
 
 <h2> About Me <h2>
-          
+
+<div>
 * My name is Wiktor 😊
 
 * I am currently located in Sweden, Jönköping county 💯
@@ -13,7 +14,7 @@
 * I speak fluent 🇬🇧 English 🇵🇱 Polish and I am currently learning 🇸🇪 Swedish
 
 * Fun fact: <i>insert fun fact here</i>
-
+</div>
 ## Languages and Tools
 
 [<img width="64" height="64" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>](https://www.python.org/)
