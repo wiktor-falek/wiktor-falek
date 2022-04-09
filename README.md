@@ -21,14 +21,12 @@
 </div>
 
 ## Currently learning
+<code>
 <div>
-
-
 [<img alt="bruh" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="64" height="64" />](https://www.google.com/)
-   
-
 </div>
-
+</code>
+          
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
