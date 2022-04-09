@@ -22,10 +22,11 @@
 
 ## Currently learning
 <div>
-<code>
+
+
 [<img alt="vuejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="64" height="64"/>]
 (https://www.google.com/)
-</code>
+
           
 
 </div>
