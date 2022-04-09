@@ -27,6 +27,7 @@
 </div>
 
 <div id="stuff">
+    
     <h5>Languages and Tools</h5>
 
     [![My Skills](https://skillicons.dev/icons?i=python,js,ts,mongodb,linux)](https://skillicons.dev)
