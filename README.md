@@ -26,6 +26,8 @@
 
 [<img alt="vuejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="64" height="64"/>]
 (https://www.google.com/)
+          
+[<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="64" height="64" />](https://www.google.com/)
 
           
 
