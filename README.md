@@ -24,6 +24,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,js,ts,mongodb,linux)](https://skillicons.dev)
 
 <h3>Currently Learning</h3>
+    
 [![My Skills](https://skillicons.dev/icons?i=vuejs&width=64)](https://skillicons.dev)
     
 </div>
