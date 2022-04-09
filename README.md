@@ -16,6 +16,7 @@
     * I speak fluent 🇬🇧 English 🇵🇱 Polish and I am currently learning 🇸🇪 Swedish
 
     * Fun fact: <i>insert fun fact here</i>
+    
 </div>
 
 <div id="stuff">
