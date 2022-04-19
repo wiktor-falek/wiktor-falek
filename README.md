@@ -17,7 +17,7 @@
             I am a self taught programmer on the journey to become a web developer 🚀
         </li>
         <li>
-            I speak fluent 🇬🇧 English 🇵🇱 Polish and I am currently learning 🇸🇪 Swedish
+            I speak fluent English 🇬🇧 Polish 🇵🇱 and I am currently learning 🇸🇪 Swedish
         </li>
         <li>
             Fun fact: <i>insert fun fact here</i>
