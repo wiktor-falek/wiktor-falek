@@ -31,9 +31,15 @@
 
 <h5>Currently Learning</h5>
 
-[![My Skills](https://skillicons.dev/icons?i=vuejs)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=vuejs)](https://skillicons.dev)
+
+<h5>Planning to learn</h5>
+
+[![Planning to learn](https://skillicons.dev/icons?i=graphql,postgresql,docker)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
     
 <br>
 pls hire me i can center a div and shit
