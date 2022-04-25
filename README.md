@@ -20,7 +20,7 @@
             I speak fluent English 🇬🇧 Polish 🇵🇱 and I am currently learning Swedish 🇸🇪
         </li>
         <li>
-            Fun fact: I hate my fucking life and i fail to see the point of it
+            Fun fact: <i>insert fun fact here</i>
         </li>
     </ul>
 </div>
