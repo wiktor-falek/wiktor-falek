@@ -35,7 +35,7 @@
 
 <h5>Planning to learn</h5>
 
-[![Planning to learn](https://skillicons.dev/icons?i=graphql,postgresql,docker,django,mysql)](https://skillicons.dev)
+[![Planning to learn](https://skillicons.dev/icons?i=graphql,postgresql,docker,django,mysql,redis)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
