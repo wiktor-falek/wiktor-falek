@@ -20,7 +20,7 @@
             I speak fluent English 🇬🇧 Polish 🇵🇱 and I am currently learning Swedish 🇸🇪
         </li>
         <li>
-            Fun fact: <i>insert fun fact here</i>
+            Fun fact: i'm an impostor ඞ
         </li>
     </ul>
 </div>
