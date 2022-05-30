@@ -31,7 +31,7 @@
 
 <h5>Currently Learning</h5>
 
-[![Learning](https://skillicons.dev/icons?i=rust,postgresql)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=rust,sql,postgresql)](https://skillicons.dev)
 
 <h5>Planning to learn</h5>
 
