@@ -3,7 +3,6 @@
 <br>
 
 <div id="about">
-    <h2 align="center">About Me</h2>
     <ul>
         <li>
             My name is Wiktor 😊
