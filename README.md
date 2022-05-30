@@ -1,6 +1,6 @@
 ![Header](./test3.png)
 
-<br>
+<hr>
 
 <div id="about">
     <ul>
