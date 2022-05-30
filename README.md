@@ -9,7 +9,7 @@
             My name is Wiktor 😊
         </li>
         <li>
-            I am currently located in Sweden, in Jönköping area 💯
+            I am currently located in Sweden, Jönköping area 💯
         </li>
         <li>
             I am a self taught programmer on the journey to become a web developer 🚀
