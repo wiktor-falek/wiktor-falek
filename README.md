@@ -1,6 +1,4 @@
-<div id="header" align="center">
-    <h1>Welcome to my profile👋</h1>
-</div>
+![Header](./github-header-image.png)
 
 <br>
 
