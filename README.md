@@ -32,9 +32,7 @@
 
 <h5>Planning to learn</h5>
 
-[![Planning to learn](https://skillicons.dev/icons?i=css,bootstrap)](https://skillicons.dev)
-
-[![Maybe someday](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
+[![Planning to learn](https://skillicons.dev/icons?i=jest,css,bootstrap)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
