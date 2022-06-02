@@ -48,7 +48,7 @@
 
 <h5>Planning to learn</h5>
 
-[![Planning to learn](https://skillicons.dev/icons?i=jest,css,bootstrap)](https://skillicons.dev)
+[![Planning to learn](https://skillicons.dev/icons?i=jest,css,bootstrap,rocket,rocketrs,rocket.rs)](https://skillicons.dev)
 
 <h6>(jest, css, bootstrap)</h6>
 
