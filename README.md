@@ -50,7 +50,7 @@
 
 [![Planning to learn](https://skillicons.dev/icons?i=jest,css,bootstrap,rocket)](https://skillicons.dev)
 
-<h6>(jest, css, bootstrap)</h6>
+<h6>(jest, css, bootstrap, rocket.rs)</h6>
 
 
 <hr>
