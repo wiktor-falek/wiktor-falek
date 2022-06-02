@@ -24,11 +24,11 @@
                
 <h5>Languages and Tools</h5>
 
-[![My Skills](https://skillicons.dev/icons?i=python,express,ts,mongodb,linux)](python)
+[![My Skills](https://skillicons.dev/icons?i=python,express,ts,linux)](python)
 
 <h5>Currently Learning</h5>
 
-[![Learning](https://skillicons.dev/icons?i=rust,postgresql)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=mongodb,rust,postgresql)](https://skillicons.dev)
 
 <h5>Planning to learn</h5>
 
