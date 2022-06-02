@@ -5,19 +5,19 @@
 <div id="about">
     <ul>
         <li>
-            My name is Wiktor 😊
+            My name is Wiktor 😎
         </li>
         <li>
             I am currently located in Sweden, Jönköping area 💯
         </li>
         <li>
-            I am a self taught programmer on the journey to become a web developer 🚀
+            I am a self taught programmer on the journey to get hired as a backend web developer 🚀
         </li>
         <li>
             I speak fluent English 🇬🇧 Polish 🇵🇱 and I am currently learning Swedish 🇸🇪
         </li>
         <li>
-            Fun fact: i'm an impostor ඞ
+            Fun fact: I'm an impostor ඞ
         </li>
     </ul>
 </div>
