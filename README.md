@@ -32,8 +32,6 @@
 <h5>Currently Learning</h5>
 
 
-<br>
-
 
 [![Learning](https://skillicons.dev/icons?i=mongodb,rust,postgresql)](https://skillicons.dev)
 
