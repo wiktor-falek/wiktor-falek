@@ -24,17 +24,25 @@
                
 <h5>Languages and Tools</h5>
 
+
 [![My Skills](https://skillicons.dev/icons?i=nodejs,ts,python,linux)](https://skillicons.dev)
 
 <h6>(node.js, typescript, python, linux)</h6>
 
 <h5>Currently Learning</h5>
 
+
 [![Learning](https://skillicons.dev/icons?i=mongodb,rust,postgresql)](https://skillicons.dev)
+
+<h6>(mongodb, rust, postgres)</h6>
 
 <h5>Planning to learn</h5>
 
+
 [![Planning to learn](https://skillicons.dev/icons?i=jest,css,bootstrap)](https://skillicons.dev)
+
+<h6>(jest, css, bootstrap)</h6>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
