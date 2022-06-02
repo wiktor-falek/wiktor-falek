@@ -26,6 +26,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,ts,python,linux)](https://skillicons.dev)
 
+<h6>(node.js, typescript, python, linux)</h6>
+
 <h5>Currently Learning</h5>
 
 [![Learning](https://skillicons.dev/icons?i=mongodb,rust,postgresql)](https://skillicons.dev)
