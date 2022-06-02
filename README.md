@@ -32,6 +32,9 @@
 <h5>Currently Learning</h5>
 
 
+<br>
+
+
 [![Learning](https://skillicons.dev/icons?i=mongodb,rust,postgresql)](https://skillicons.dev)
 
 <h6>(mongodb, rust, postgres)</h6>
@@ -39,9 +42,15 @@
 <h5>Planning to learn</h5>
 
 
+<br>
+
+
 [![Planning to learn](https://skillicons.dev/icons?i=jest,css,bootstrap)](https://skillicons.dev)
 
 <h6>(jest, css, bootstrap)</h6>
+
+
+<br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
