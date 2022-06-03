@@ -38,7 +38,7 @@
 
 <h5>Currently Learning</h5>
 
-[![Learning](https://skillicons.dev/icons?i=mongoose,rust,postgresql)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=mongoosejs,rust,postgresql)](https://skillicons.dev)
 
 <h6>(mongoose, rust, postgres)</h6>
 
