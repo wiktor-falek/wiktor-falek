@@ -38,7 +38,7 @@
 
 <h5>Currently Learning</h5>
 
-[![Learning](https://skillicons.dev/icons?i=mongodb,rust,postgresql)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=bootstrap,mongodb,rust)](https://skillicons.dev)
 
 <h6>(mongodb, rust, postgres)</h6>
 
@@ -48,7 +48,7 @@
 
 <h5>Planning to learn</h5>
 
-[![Planning to learn](https://skillicons.dev/icons?i=jest,css,bootstrap,rocket)](https://skillicons.dev)
+[![Planning to learn](https://skillicons.dev/icons?i=postgres,jest,css,bootstrap,rocket)](https://skillicons.dev)
 
 <h6>(jest, css, bootstrap, rocket.rs)</h6>
 
