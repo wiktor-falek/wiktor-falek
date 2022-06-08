@@ -40,7 +40,7 @@
 
 [![Learning](https://skillicons.dev/icons?i=bootstrap,mongodb,rust)](https://skillicons.dev)
 
-<h6>(mongodb, rust, postgres)</h6>
+<h6>(bootstrap, mongodb, rust)</h6>
 
 
 <br>
@@ -48,9 +48,9 @@
 
 <h5>Planning to learn</h5>
 
-[![Planning to learn](https://skillicons.dev/icons?i=postgres,jest,css,bootstrap,rocket)](https://skillicons.dev)
+[![Planning to learn](https://skillicons.dev/icons?i=postgres,jest,css,rocket)](https://skillicons.dev)
 
-<h6>(jest, css, bootstrap, rocket.rs)</h6>
+<h6>(postgres, jest, css, rocket.rs)</h6>
 
 
 <hr>
