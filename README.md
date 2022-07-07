@@ -48,9 +48,9 @@
 
 <h5>Planning to learn</h5>
 
-[![Planning to learn](https://skillicons.dev/icons?i=jest,bootstrap,mongodb,postgres,rocket)](https://skillicons.dev)
+[![Planning to learn](https://skillicons.dev/icons?i=jest,bootstrap,mongodb,postgres,rocket,tailwind)](https://skillicons.dev)
 
-<h6>(jest, bootstrap, mongodb, postgres, rocket.rs)</h6>
+<h6>(jest, bootstrap, mongodb, postgres, rocket.rs, tailwind)</h6>
 
 
 <hr>
