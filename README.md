@@ -6,8 +6,11 @@
     <code>‎About me‎</code>
 </div>
 
-```
+<div>
+<p></p>
+</div>
 
+```
 • Self taught programmer on the journey
   to get hired as a backend web developer 🚀
 
