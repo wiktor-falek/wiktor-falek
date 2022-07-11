@@ -7,9 +7,11 @@ My name is Wiktor 😎
 
 Currently located in Sweden, Jönköping area 💯
 
-I am a self taught programmer on the journey to get hired as a backend web developer 🚀
+I am a self taught programmer on the journey
+to get hired as a backend web developer 🚀
 
-I speak fluent English 🇬🇧 Polish 🇵🇱 and I am currently learning Swedish 🇸🇪
+I speak fluent English 🇬🇧 Polish🇵🇱 
+and I am currently learning Swedish 🇸🇪
 
 Fun fact: I'm an impostor ඞ
 
