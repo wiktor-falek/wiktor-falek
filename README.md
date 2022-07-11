@@ -31,7 +31,6 @@
 </p>
 
 <hr></hr>
-<br></br>
 
 <div align="center">
 
