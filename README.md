@@ -32,8 +32,14 @@
 
 <hr></hr>
 
-<div align="center">
+<div align="left">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiktor-falek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<div align="right">
+
+![Wiktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiktor-falek)
 
 </div>
