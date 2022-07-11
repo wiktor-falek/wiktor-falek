@@ -6,9 +6,7 @@
                   About me
 ```
 
-
 ```
-
 • Self taught programmer on the journey
 to get hired as a backend web developer 🚀
 
