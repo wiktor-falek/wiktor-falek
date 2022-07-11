@@ -6,9 +6,8 @@
     <code>‎About me‎</code>
 </div>
 
-<hr></hr>
-
 ```
+
 • Self taught programmer on the journey
   to get hired as a backend web developer 🚀
 
