@@ -1,6 +1,10 @@
-<h1 align="center">Welcome to my profile!</h1>
+<h1 align="center">Lorem ipsum</h1>
 
 <img src="https://avatars.githubusercontent.com/u/79018062?v=4" width="400" height="400" align="left"></img>
+
+```
+              Welcome to my profile!
+```
 
 ```
 
@@ -26,6 +30,7 @@ and I am currently learning Swedish 🇸🇪
 -->
 <img src="https://img.shields.io/badge/-Node.js-gray?style=flat&logo=node.js" alt="html" />
 <img src="https://img.shields.io/badge/-Linux-525?style=flat&logo=linux" alt="html" />
+<img src="https://img.shields.io/badge/-Visual Studio Code-blue?style=flat&logo=VisualStudioCode" alt="vsc"/>
 <img src="https://img.shields.io/badge/-Visual Studio Code-blue?style=flat&logo=VisualStudioCode" alt="vsc"/>
 </p>
 
