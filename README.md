@@ -35,6 +35,8 @@
     <img src="https://img.shields.io/badge/-Visual Studio Code-blue?style=flat&logo=VisualStudioCode" alt="vsc"/>
     <img src="https://img.shields.io/badge/-Visual Studio Code-blue?style=flat&logo=VisualStudioCode" alt="vsc"/>
     <img src="https://img.shields.io/badge/-Visual Studio Code-blue?style=flat&logo=VisualStudioCode" alt="vsc"/>
+    <img src="https://img.shields.io/badge/-Visual Studio Code-blue?style=flat&logo=VisualStudioCode" alt="vsc"/>
+    <img src="https://img.shields.io/badge/-Visual Studio Code-blue?style=flat&logo=VisualStudioCode" alt="vsc"/>
 </p>
 
 <hr></hr>
