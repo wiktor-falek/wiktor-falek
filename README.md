@@ -3,12 +3,12 @@
 <img src="https://avatars.githubusercontent.com/u/79018062?v=4" width="400" height="400" align="left"></img>
 
 ```
-           Hi, my name is Wiktor 😎
+                    About me
 ```
 
 ```
 
-• I am a self taught programmer on the journey
+• Self taught programmer on the journey
 to get hired as a backend web developer 🚀
 
 • Currently trying to learn frontend 🖌️
