@@ -8,14 +8,14 @@
 
 ```
 • Self taught programmer on the journey
-to get hired as a backend web developer 🚀
+  to get hired as a backend web developer 🚀
 
 • Currently trying to learn frontend 🖌️
 
-• I am located in Sweden, Jönköping area 💯
+• Located in Sweden, Jönköping area 💯
 
 • I speak fluent English 🇬🇧 Polish 🇵🇱 
-and I'm currently learning Swedish 🇸🇪
+  and I'm currently learning Swedish 🇸🇪
 
 • Fun fact: I'm an impostor ඞ
 
