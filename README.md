@@ -1,30 +1,20 @@
-![Header](./test3.png)
+<h1 align="center">Welcome to my profile!</h1>
 
-<hr>
+<img src="https://avatars.githubusercontent.com/u/79018062?v=4" width="400" height="400" align="left"></img>
 
-<div id="about">
-    <ul>
-        <li>
-            My name is Wiktor 😎
-        </li>
-        <li>
-            I am currently located in Sweden, Jönköping area 💯
-        </li>
-        <li>
-            I am a self taught programmer on the journey to get hired as a backend web developer 🚀
-        </li>
-        <li>
-            I speak fluent English 🇬🇧 Polish 🇵🇱 and I am currently learning Swedish 🇸🇪
-        </li>
-        <li>
-            Fun fact: I'm an impostor ඞ
-        </li>
-    </ul>
-</div>
-    
-    
-<br>         
-               
+```
+My name is Wiktor 😎
+
+I am currently located in Sweden, Jönköping area 💯
+
+I am a self taught programmer on the journey to get hired as a backend web developer 🚀
+
+I speak fluent English 🇬🇧 Polish 🇵🇱 and I am currently learning Swedish 🇸🇪
+
+Fun fact: I'm an impostor ඞ
+
+```
+       
                
 <h5>Languages and Tools</h5>
 
