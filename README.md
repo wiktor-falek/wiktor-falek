@@ -5,7 +5,7 @@
 ```
 My name is Wiktor 😎
 
-I am currently located in Sweden, Jönköping area 💯
+Currently located in Sweden, Jönköping area 💯
 
 I am a self taught programmer on the journey to get hired as a backend web developer 🚀
 
