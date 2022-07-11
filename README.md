@@ -4,6 +4,7 @@
 
 ```yaml
                   About me
+
 ```
 
 ```
@@ -18,7 +19,6 @@ to get hired as a backend web developer 🚀
 and I'm currently learning Swedish 🇸🇪
 
 • Fun fact: I'm an impostor ඞ
-
 ```
 
 <p align="center">
