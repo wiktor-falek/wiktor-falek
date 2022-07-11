@@ -10,42 +10,40 @@
 • I am a self taught programmer on the journey
 to get hired as a backend web developer 🚀
 
-• I speak fluent English 🇬🇧 Polish🇵🇱 
+• I speak fluent English 🇬🇧 Polish 🇵🇱 
 and I am currently learning Swedish 🇸🇪
 
 • Fun fact: I'm an impostor ඞ
 
 ```
+
+<p align="center">
+<img src="https://img.shields.io/badge/-Python-yellow?style=flat&logo=python" alt="html" />
+<img src="https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5" alt="html" />
+<!-- 
+<img src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3" alt="html" />
+-->
+<img src="https://img.shields.io/badge/-Node.js-gray?style=flat&logo=node.js" alt="html" />
+</p>
+
+<!-- 
+<img src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3" alt="html" />
+
+Node.js
+Linux
+Visual Studio Code
+
+-->
+
        
                
-<h5>Languages and Tools</h5>
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,python,linux)](https://skillicons.dev)
-
-<h6>(node.js, typescript, python, linux)</h6>
 
 
-<br>
-
-
-<h5>Currently Learning</h5>
-
-[![Learning](https://skillicons.dev/icons?i=rust,css)](https://skillicons.dev)
-
-<h6>(rust, css)</h6>
-
-
-<br>
-
-
-<h5>Planning to learn</h5>
-
-[![Planning to learn](https://skillicons.dev/icons?i=jest,bootstrap,mongodb,postgres,rocket,tailwind)](https://skillicons.dev)
-
-<h6>(jest, bootstrap, mongodb, postgres, rocket.rs, tailwind)</h6>
-
-
-<hr>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
