@@ -3,7 +3,7 @@
 <img src="https://avatars.githubusercontent.com/u/79018062?v=4" width="400" height="400" align="left"></img>
 
 <div align="center">
-    <code>‎About me‎</code>
+    <code>About me</code>
 </div>
 
 <hr></hr>
@@ -31,8 +31,6 @@
     <img src="https://img.shields.io/badge/-Linux-525?style=flat&logo=linux" alt="html" />
     <img src="https://img.shields.io/badge/-Visual Studio Code-blue?style=flat&logo=VisualStudioCode" alt="vsc"/>
 </p>
-
-<br></br>
 
 <hr></hr>
 
