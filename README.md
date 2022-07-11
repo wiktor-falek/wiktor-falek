@@ -6,9 +6,7 @@
     <code>‎About me‎</code>
 </div>
 
-<div>
-<p></p>
-</div>
+<br></br>
 
 ```
 • Self taught programmer on the journey
