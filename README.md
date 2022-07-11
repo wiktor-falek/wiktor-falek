@@ -4,6 +4,12 @@
 
 <div align="center">
     <code></code>
+    <code></code>
+    <code></code>
+    <code></code>
+    <code></code>
+    <code></code>
+    <code></code>
     <code>‎About me‎</code>
     <code></code>
 </div>
