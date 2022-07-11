@@ -1,22 +1,22 @@
-<h1 align="center">Lorem ipsum</h1>
+<h1 align="center">Welcome to my profile!</h1>
 
 <img src="https://avatars.githubusercontent.com/u/79018062?v=4" width="400" height="400" align="left"></img>
 
 ```
-              Welcome to my profile!
+             Hi, my name is Wiktor 😎
 ```
 
 ```
-
-• My name is Wiktor 😎
-
-• Currently located in Sweden, Jönköping area 💯
 
 • I am a self taught programmer on the journey
 to get hired as a backend web developer 🚀
 
+• Currently trying to learn frontend 🖌️
+
+• I am located in Sweden, Jönköping area 💯
+
 • I speak fluent English 🇬🇧 Polish 🇵🇱 
-and I am currently learning Swedish 🇸🇪
+and I'm currently learning Swedish 🇸🇪
 
 • Fun fact: I'm an impostor ඞ
 
