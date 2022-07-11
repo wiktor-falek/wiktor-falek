@@ -3,8 +3,7 @@
 <img src="https://avatars.githubusercontent.com/u/79018062?v=4" width="400" height="400" align="left"></img>
 
 ```yaml
-                  About me
-
+                   About me
 ```
 
 ```
@@ -19,6 +18,7 @@ to get hired as a backend web developer 🚀
 and I'm currently learning Swedish 🇸🇪
 
 • Fun fact: I'm an impostor ඞ
+
 ```
 
 <p align="center">
