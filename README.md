@@ -3,6 +3,7 @@
 <img src="https://avatars.githubusercontent.com/u/79018062?v=4" width="400" height="400" align="left"></img>
 
 ```
+
 • My name is Wiktor 😎
 
 • Currently located in Sweden, Jönköping area 💯
@@ -24,6 +25,8 @@ and I am currently learning Swedish 🇸🇪
 <img src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3" alt="html" />
 -->
 <img src="https://img.shields.io/badge/-Node.js-gray?style=flat&logo=node.js" alt="html" />
+<img src="https://img.shields.io/badge/-Linux-525?style=flat&logo=linux" alt="html" />
+<img src="https://img.shields.io/badge/-Visual Studio Code-blue?style=flat&logo=VisualStudioCode" alt="vsc"/>
 </p>
 
 <!-- 
