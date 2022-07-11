@@ -6,7 +6,7 @@
     <code>‎About me‎</code>
 </div>
 
-<br></br>
+<hr></hr>
 
 ```
 • Self taught programmer on the journey
@@ -31,6 +31,8 @@
     <img src="https://img.shields.io/badge/-Linux-525?style=flat&logo=linux" alt="html" />
     <img src="https://img.shields.io/badge/-Visual Studio Code-blue?style=flat&logo=VisualStudioCode" alt="vsc"/>
 </p>
+
+<br></br>
 
 <hr></hr>
 
