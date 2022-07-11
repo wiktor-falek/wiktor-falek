@@ -22,40 +22,20 @@
 ```
 
 <p align="center">
-<img src="https://img.shields.io/badge/-Python-yellow?style=flat&logo=python" alt="html" />
-<img src="https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5" alt="html" />
-<!-- 
-<img src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3" alt="html" />
--->
-<img src="https://img.shields.io/badge/-Node.js-gray?style=flat&logo=node.js" alt="html" />
-<img src="https://img.shields.io/badge/-Linux-525?style=flat&logo=linux" alt="html" />
-<img src="https://img.shields.io/badge/-Visual Studio Code-blue?style=flat&logo=VisualStudioCode" alt="vsc"/>
-<img src="https://img.shields.io/badge/-Visual Studio Code-blue?style=flat&logo=VisualStudioCode" alt="vsc"/>
+    <img src="https://img.shields.io/badge/-Python-yellow?style=flat&logo=python" alt="html" />
+    <img src="https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5" alt="html" />
+    <!-- 
+    <img src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3" alt="html" />
+    -->
+    <img src="https://img.shields.io/badge/-Node.js-gray?style=flat&logo=node.js" alt="html" />
+    <img src="https://img.shields.io/badge/-Linux-525?style=flat&logo=linux" alt="html" />
+    <img src="https://img.shields.io/badge/-Visual Studio Code-blue?style=flat&logo=VisualStudioCode" alt="vsc"/>
 </p>
 
-<!-- 
-<img src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3" alt="html" />
+<hr></hr>
 
-Node.js
-Linux
-Visual Studio Code
+<div align="center">
 
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiktor-falek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-       
-               
-
-
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-    
-<br>
-pls hire me i can center a div and shit
+</div>
