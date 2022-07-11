@@ -3,17 +3,17 @@
 <img src="https://avatars.githubusercontent.com/u/79018062?v=4" width="400" height="400" align="left"></img>
 
 ```
-My name is Wiktor 😎
+• My name is Wiktor 😎
 
-Currently located in Sweden, Jönköping area 💯
+• Currently located in Sweden, Jönköping area 💯
 
-I am a self taught programmer on the journey
+• I am a self taught programmer on the journey
 to get hired as a backend web developer 🚀
 
-I speak fluent English 🇬🇧 Polish🇵🇱 
+• I speak fluent English 🇬🇧 Polish🇵🇱 
 and I am currently learning Swedish 🇸🇪
 
-Fun fact: I'm an impostor ඞ
+• Fun fact: I'm an impostor ඞ
 
 ```
        
