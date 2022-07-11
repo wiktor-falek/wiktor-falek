@@ -24,9 +24,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/-Python-yellow?style=flat&logo=python" alt="html" />
     <img src="https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5" alt="html" />
-    <!-- 
     <img src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3" alt="html" />
-    -->
     <img src="https://img.shields.io/badge/-Node.js-gray?style=flat&logo=node.js" alt="html" />
     <img src="https://img.shields.io/badge/-Linux-525?style=flat&logo=linux" alt="html" />
     <img src="https://img.shields.io/badge/-Visual Studio Code-blue?style=flat&logo=VisualStudioCode" alt="vsc"/>
