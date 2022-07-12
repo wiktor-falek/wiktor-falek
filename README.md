@@ -35,13 +35,8 @@
 <hr></hr>
 
 <div align="center">
-<img style="text-align: center; width: 49.50%" alt="Wiktor's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiktor-falek&count_private=true&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" />
+<img style="text-align: center; width: 49.50%" alt="Wiktor's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiktor-falek&count_private=true&layout=compact&show_icons=true&hide_border=true&theme=tokyonight&langs_count=6&hide=html" />
 </div>
 
 <p float="left">
 </p>
-
-
-
-
-
