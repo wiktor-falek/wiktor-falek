@@ -12,7 +12,7 @@
 • Self taught programmer on the journey
   to get hired as a backend web developer 🚀
 
-• Currently trying to learn frontend 🖌️
+• Currently focused on learning frontend 🖌️
 
 • Located in Sweden, Jönköping area 💯
 
