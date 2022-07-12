@@ -36,6 +36,6 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiktor-falek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img style="text-align: center; width: 95%" alt="n.kodem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wiktor+falek&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
 
 </div>
