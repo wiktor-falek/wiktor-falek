@@ -39,7 +39,6 @@
 <img style="text-align: center; width: 45%" alt="Wiktor's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiktor-falek&count_private=true&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" />
 
 </div>
-
 <div align="right">
 
 <img style="text-align: center; width: 45%" alt="Wiktor's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiktor-falek&count_private=true&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" />
