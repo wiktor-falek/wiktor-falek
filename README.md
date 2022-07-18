@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python" alt="html" />
     <img src="https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5" alt="html" />
     <img src="https://img.shields.io/badge/-CSS-2965F1?style=flat&logo=css3" alt="html" />
-    <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" alt="html" />
+    <img src="https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js" alt="html" />
     <img src="https://img.shields.io/badge/-Linux-123?style=flat&logo=linux" alt="html" />
     <img src="https://img.shields.io/badge/-Visual Studio Code-0078D7?style=flat&logo=VisualStudioCode" alt="vsc"/>
 </p>
