@@ -13,6 +13,7 @@
   to get hired as a backend web developer 🚀
 
 • Currently focused on learning frontend 🖌️
+  to work on fullstack projects 💪
 
 • Located in Sweden, Jönköping area 💯
 
@@ -20,7 +21,6 @@
   and I'm currently learning Swedish 🇸🇪
 
 • Fun fact: I'm an impostor ඞ
-
 ```
 
 <p align="center">
