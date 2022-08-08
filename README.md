@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/-Sass-C76395?style=flat&logo=sass&logoColor=F7F7F7" />
     <img src="https://img.shields.io/badge/-React-202020?style=flat&logo=react"/>
     <img src="https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js"/>
-    <img src="https://img.shields.io/badge/-Arch Btw-white?style=flat&logo=archlinux&logoColor=168ECA"/>
+    <img src="https://img.shields.io/badge/-Arch Btw-F4F4F4?style=flat&logo=archlinux&logoColor=168ECA"/>
     <img src="https://img.shields.io/badge/-Visual Studio Code-0078D7?style=flat&logo=VisualStudioCode"/>
 </p>
 
