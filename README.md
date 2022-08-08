@@ -30,6 +30,7 @@
     <img src="https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5" alt="html" />
     <img src="https://img.shields.io/badge/-CSS-2965F1?style=flat&logo=css3" />
     <img src="https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js"/>
+    <img src="https://img.shields.io/badge/-React-202020?style=flat&logo=react"/>
     <img src="https://img.shields.io/badge/-Arch Btw-123?style=flat&logo=Linux"/>
     <img src="https://img.shields.io/badge/-Visual Studio Code-0078D7?style=flat&logo=VisualStudioCode"/>
 </p>
