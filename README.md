@@ -25,8 +25,8 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python" />
-    <img src="https://img.shields.io/badge/-JavaScript-FFD43B?style=flat&logo=javascript" />
-    <img src="https://img.shields.io/badge/-TypeScript-FFD43B?style=flat&logo=typescript" />
+    <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" />
+    <img src="https://img.shields.io/badge/-TypeScript-F2F2F2?style=flat&logo=typescript" />
     <img src="https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5" alt="html" />
     <img src="https://img.shields.io/badge/-CSS-2965F1?style=flat&logo=css3" />
     <img src="https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js"/>
