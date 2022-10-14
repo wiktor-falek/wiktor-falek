@@ -10,15 +10,14 @@
 
 ```
 • Self taught programmer on the journey
-  to get hired as a backend web developer 🚀
+  to get hired as a web developer 🚀
 
 • Currently focused on learning frontend 🖌️
   to work on fullstack projects 💪
 
 • Located in Sweden, Jönköping area 💯
 
-• I speak fluent English 🇬🇧 Polish 🇵🇱 
-  and I'm currently learning Swedish 🇸🇪
+• I am trilingual 🇬🇧 🇸🇪 🇵🇱 
 
 • Fun fact: I'm an impostor ඞ
 ```
@@ -34,6 +33,7 @@
     <img src="https://img.shields.io/badge/-Vue-32475B?style=flat&logo=vue.js"/>
     <img src="https://img.shields.io/badge/-Arch Btw-F4F4F4?style=flat&logo=archlinux&logoColor=168ECA"/>
     <img src="https://img.shields.io/badge/-Visual Studio Code-0078D7?style=flat&logo=VisualStudioCode"/>
+    <img src="https://img.shields.io/badge/-MongoDB-0078D7?style=flat&logo=MongoDB"/>
 </p>
 
 <hr></hr>
