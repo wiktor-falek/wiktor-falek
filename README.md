@@ -34,6 +34,7 @@
     <img src="https://img.shields.io/badge/-Arch Btw-F4F4F4?style=flat&logo=archlinux&logoColor=168ECA"/>
     <img src="https://img.shields.io/badge/-Visual Studio Code-0078D7?style=flat&logo=VisualStudioCode"/>
     <img src="https://img.shields.io/badge/-MongoDB-F4F4F4?style=flat&logo=MongoDB"/>
+    <img src="https://img.shields.io/badge/-Express-F4F4F4?style=flat&logo=Express"/>
 </p>
 
 <hr></hr>
