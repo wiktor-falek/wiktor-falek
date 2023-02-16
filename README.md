@@ -12,14 +12,12 @@
 • Self taught programmer on the journey
   to get hired as a web developer 🚀
 
-• Currently focused on learning frontend 🖌️
-  to work on fullstack projects 💪
-
 • Located in Sweden, Jönköping area 💯
 
-• I am trilingual 🇬🇧 🇸🇪 🇵🇱 
+• Currently working really hard on
+  a multiplayer browser game 💪
 
-• Fun fact: I'm an impostor ඞ
+• Trilingual 🇬🇧 🇸🇪 🇵🇱 
 ```
 
 <p align="center">
