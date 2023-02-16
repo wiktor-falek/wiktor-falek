@@ -30,6 +30,7 @@
     <img src="https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5" alt="html" />
     <img src="https://img.shields.io/badge/-CSS-2965F1?style=flat&logo=css3" />
     <img src="https://img.shields.io/badge/-Vue.js-32475B?style=flat&logo=vue.js"/>
+    <img src="https://img.shields.io/badge/-socket.io-FFFFFF?style=flat&logo=socket.io"/>
     <img src="https://img.shields.io/badge/-MongoDB-F4F4F4?style=flat&logo=MongoDB"/>
     <img src="https://img.shields.io/badge/-Express-303030?style=flat&logo=Express"/>
     <img src="https://img.shields.io/badge/-Tailwind CSS-0B1120?style=flat&logo=tailwindcss"/>
