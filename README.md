@@ -41,7 +41,7 @@
 <div align="center">
 <!-- <img style="text-align: center; width: 49.50%" alt="Wiktor's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiktor-falek&count_private=true&layout=compact&show_icons=true&hide_border=true&theme=tokyonight&langs_count=6&hide=html" /> -->
 
-<img style="text-align: center; width: 49.50%" alt="Wiktor's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiktor-falek&layout=compact" />
+<img style="text-align: center; width: 49.50%" alt="Wiktor's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiktor-falek&layout=compact&count_private=true&hide_border=true&theme=tokyonight&hide=html,roff" />
     
 </div>
 
