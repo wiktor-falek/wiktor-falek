@@ -33,6 +33,7 @@
     <img src="https://img.shields.io/badge/-Express-303030?style=flat&logo=Express"/>
     <img src="https://img.shields.io/badge/-Postgres-eeeeee?style=flat&logo=Postgresql"/>
     <img src="https://img.shields.io/badge/-MongoDB-F4F4F4?style=flat&logo=MongoDB"/>
+    <img src="https://img.shields.io/badge/-Docker-FFFFFF?style=flat&logo=Docker"/>
     <img src="https://img.shields.io/badge/-Linux-F4F4F4?style=flat&logo=archlinux&logoColor=168ECA"/>
     <img src="https://img.shields.io/badge/-VSCode-0078D7?style=flat&logo=VisualStudioCode"/>
 </p>
