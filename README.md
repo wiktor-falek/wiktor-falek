@@ -15,7 +15,7 @@
 • Located in Sweden, Jönköping area 💯
 
 • Currently working really hard on
-  a multiplayer browser game 💪
+  Bonfire - a chat application
 
 • Trilingual 🇬🇧 🇸🇪 🇵🇱 
 ```
