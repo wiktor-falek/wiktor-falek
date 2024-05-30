@@ -14,10 +14,7 @@
 
 • Located in Sweden, Jönköping area 💯
 
-• Currently working really hard on
-  Bonfire - a chat application
-
-• Trilingual 🇬🇧 🇸🇪 🇵🇱 
+• Trilingual 🇵🇱 🇬🇧 🇸🇪 
 ```
 
 <p align="center">
@@ -37,7 +34,6 @@
     <img src="https://img.shields.io/badge/-Linux-F4F4F4?style=flat&logo=archlinux&logoColor=168ECA"/>
     <img src="https://img.shields.io/badge/-Docker-FFFFFF?style=flat&logo=Docker"/>
     <img src="https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=Git"/>
-<!--     <img src="https://img.shields.io/badge/-VSCode-0078D7?style=flat&logo=VisualStudioCode"/> -->
 </p>
 
 <hr></hr>
