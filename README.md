@@ -9,10 +9,10 @@
 <hr></hr>
 
 ```
-• Self taught programmer on the journey
-  to get hired as a web developer 🚀
+• Self taught programmer on the journey to git gud
+  and become a professional software developer 🚀
 
-• Located in Sweden, Jönköping area 💯
+• Located in Sweden, near Jönköping 💯
 
 • Trilingual 🇵🇱 🇬🇧 🇸🇪 
 ```
