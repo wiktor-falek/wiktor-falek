@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/-React-474747?style=flat&logo=react"/>
     <img src="https://img.shields.io/badge/-WebSocket-FFFFFF?style=flat&logo=socket.io&logoColor=000000"/>
     <img src="https://img.shields.io/badge/-Express-303030?style=flat&logo=Express"/>
-    <img src="https://img.shields.io/badge/-Postgres-eeeeee?style=flat&logo=Postgresql"/>
+    <img src="https://img.shields.io/badge/-Postgres-EEEEEE?style=flat&logo=Postgresql"/>
     <img src="https://img.shields.io/badge/-MongoDB-F4F4F4?style=flat&logo=MongoDB"/>
     <img src="https://img.shields.io/badge/-Linux-F4F4F4?style=flat&logo=archlinux&logoColor=168ECA"/>
     <img src="https://img.shields.io/badge/-Docker-FFFFFF?style=flat&logo=Docker"/>
@@ -40,7 +40,6 @@
 <hr></hr>
 
 <div align="center">
-<!-- <img style="text-align: center; width: 49.50%" alt="Wiktor's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiktor-falek&count_private=true&layout=compact&show_icons=true&hide_border=true&theme=tokyonight&langs_count=6&hide=html" /> -->
 
 <img style="text-align: center; width: 49.50%" alt="Wiktor's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiktor-falek&layout=compact&count_private=true&hide_border=true&theme=tokyonight&hide=html,roff" />
     
